@@ -2,6 +2,11 @@
 
 Execute Rspec on iTerm2 using Emacs!!
 
+## WIP
+
+It depends on other source codes in gist.
+Look at the comments in `rspec-on-iterm.el`, and add some extra `.el` on your `.emacs.d`.
+
 ## How It Works
 
 1. Set the cursor on the line you want to test, in your spec.rb file.
